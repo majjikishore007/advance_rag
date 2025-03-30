@@ -99,7 +99,3 @@ Logs are stored in `rag_service.log` and also printed to the console. Adjust the
 - Add support for additional document formats.
 - Improve error handling and retries.
 - Optimize embedding and upsert batch sizes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
